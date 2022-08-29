@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mengly</h1>
+<div style="background-color:#121212">
+<div style="color:#fff">
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> , I'm Mengly</h1>
 <h3 align="center">A passionate data enginner, web developer from Cambodia</h3>
 
-- 🌱 I’m currently learning **everything**
+- 👨‍🏭 I’m currently pursuing **Bachelor Degree in Software Engineering at Kirirom Institute of Technology.**
+
+- 🌱 I’m currently learning **Data Enginner and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://mengly-portfolio.web.app/](https://mengly-portfolio.web.app/)
 
@@ -36,3 +41,5 @@
 
 - 🚀 JomHack
 
+</div>
+</div>
