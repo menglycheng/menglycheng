@@ -4,6 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> , I'm Mengly</h1>
 <h3 align="center">A passionate data enginner, web developer from Cambodia</h3>
 
+![](https://komarev.com/ghpvc/?username=menglycheng&color=blue)<br>
+
 - 👨‍🏭 I’m currently pursuing **Bachelor Degree in Software Engineering at Kirirom Institute of Technology.**
 
 - 🌱 I’m currently learning **Data Enginner and Web Development**
