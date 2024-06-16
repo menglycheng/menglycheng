@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Enginner and Web Development**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://menglycheng.me/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://menlgycheng.vercel.app/)
 
 - 📫 How to reach me **menglycheng2@gmail.com**
 
